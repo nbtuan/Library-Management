@@ -1,0 +1,28 @@
+
+
+CMND: 2
+
+Ten: 2
+
+Tuoi: 2
+
+	**DANH SACH SACH: **
+
+Sach Ngoai Van thu 1: 
+
+	Ma Sach: 2
+
+	Ten Sach: 2
+
+	Tac Gia: 2
+
+	Nha Xuat Ban: 2
+
+	Gia Sach: 2
+
+	ISBN: 2
+
+Ngay muon Sach: 18/10/1999
+Ngay tra Sach: 28/10/1999
+
+	TIEN PHAT = 20000 dong!

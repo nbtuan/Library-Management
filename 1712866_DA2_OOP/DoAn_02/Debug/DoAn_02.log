@@ -1,0 +1,16 @@
+﻿  DocGia.cpp
+  DanhSachSach.cpp
+c:\users\user\desktop\oop\1712866\doan_02\danhsachsach.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\oop\1712866\doan_02\danhsachsach.cpp(162): warning C4018: '<': signed/unsigned mismatch
+  DanhSachDocGia.cpp
+c:\users\user\desktop\oop\1712866\doan_02\danhsachdocgia.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\oop\1712866\doan_02\danhsachdocgia.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  TiengViet.cpp
+  Sach.cpp
+  NgoaiVan.cpp
+  Ngay.cpp
+  DoAn_02.vcxproj -> C:\Users\USER\Desktop\OOP\1712866\Debug\DoAn_02.exe
+  DoAn_02.vcxproj -> C:\Users\USER\Desktop\OOP\1712866\Debug\DoAn_02.pdb (Full PDB)
